@@ -1,0 +1,30 @@
+*{
+    background-color:rgb(138, 188, 207);
+}
+.main{
+    margin: 10px;
+    padding: px;
+    text-align: center;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+position: relative;
+}
+select{
+    padding: 10px;
+}
+.count{
+    justify-content: center;
+    display: flex;
+    margin-top: 40px;
+
+}
+.mainbtn{
+margin-left: 170px;
+}
+
+.btn{
+    font-size: large;
+    border-radius:4px ;
+    background:wheat;
+}
